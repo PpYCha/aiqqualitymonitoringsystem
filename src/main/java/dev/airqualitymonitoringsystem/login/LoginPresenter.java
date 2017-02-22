@@ -44,7 +44,7 @@ public class LoginPresenter implements Initializable, ControlledScreen {
     @Override
     public void setScreenController(ScreenController screenController) {
         this.screenController = screenController;
-        
+       
         
     }
 }

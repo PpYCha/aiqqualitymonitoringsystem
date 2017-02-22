@@ -18,4 +18,5 @@ public abstract class ScreenController {
         ControlledScreen presenter = (ControlledScreen) view.getPresenter();
         presenter.setScreenController(this);
     }
+
 }

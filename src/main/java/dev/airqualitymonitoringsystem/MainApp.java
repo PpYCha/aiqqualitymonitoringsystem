@@ -17,7 +17,7 @@ public class MainApp extends Application {
         ShellView shell = new ShellView();
         Scene scene = new Scene(shell.getView());
         
-        stage.setTitle("airqmon coded by archie-cortez");
+        stage.setTitle("AirQualityMonitoringSystem");
         stage.setScene(scene);
       
         stage.show();

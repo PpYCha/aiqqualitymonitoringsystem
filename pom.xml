@@ -144,6 +144,11 @@
             <version>3.8</version>
             <type>jar</type>
         </dependency>
+        <dependency>
+            <groupId>com.lynden</groupId>
+            <artifactId>GMapsFX</artifactId>
+            <version>2.0.9</version>
+        </dependency>
     </dependencies>
 
 </project>
