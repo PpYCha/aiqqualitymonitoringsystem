@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2017, 9:12:30 PM
+    Author     : Mew
+*/
+
+.BorderPane {
+    -fx-background-image:url('file:C:/Users/Mew/Documents/NetBeansProjects/AirQMon/src/main/resources/pictures/background.jpg');
+      -fx-background-repeat: stretch;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
