@@ -9,7 +9,7 @@
 <?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.BorderPane?>
 
-<BorderPane prefHeight="400.0" prefWidth="606.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.airqualitymonitoringsystem.admin.AdminPresenter">
+<BorderPane prefHeight="411.0" prefWidth="631.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.airqualitymonitoringsystem.admin.AdminPresenter">
    <center>
       <TableView fx:id="sensorDataTable" BorderPane.alignment="CENTER">
         <columns>

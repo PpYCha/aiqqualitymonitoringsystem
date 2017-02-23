@@ -22,6 +22,7 @@ public class ShellPresenter extends ScreenController implements Initializable {
         // TODO
         MapView mapView = new MapView();
         navigateToView(mapView, null);
+     
     }
 
   
