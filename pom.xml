@@ -126,8 +126,10 @@
                 <directory>src/main/resources</directory>
                 <includes>
                     <include>**/*.xml</include>
+                    <include>**/*.jpg</include>
                 </includes>
             </resource>
+             
         </resources>
         <finalName>airqmon</finalName>
         

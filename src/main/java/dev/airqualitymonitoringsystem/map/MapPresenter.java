@@ -70,7 +70,10 @@ public class MapPresenter implements Initializable, ControlledScreen, MapCompone
                 .zoomControl(true)
                 .zoom(15)
                 .overviewMapControl(false)
-                .mapType(MapTypeIdEnum.SATELLITE);
+                .mapTypeControl(false)
+                
+                .mapType(MapTypeIdEnum.TERRAIN);
+        
         GoogleMap map = mapView.createMap(options);
 
         MarkerOptions markerOptions1 = new MarkerOptions();
